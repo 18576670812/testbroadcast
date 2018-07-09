@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testbroadcast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+	<string name="sendintent">send intent</string>
+	<string name="startactivity">start activity</string>
+	<string name="sendsticky">send sticky</string>
+	<string name="TestSender">TestSender</string>
+	<string name="TestReceiver">TestReceiver</string>
+</resources>
